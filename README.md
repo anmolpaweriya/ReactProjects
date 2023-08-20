@@ -13,6 +13,7 @@ There are Some basic frontEnd Projects used with the help of React
 |5.| [ AP Talks ](https://anisolepro.github.io/ReactProjects/apTalks/)  | new PlatForm to securely chat with your friends from anywhere   |
 |6.| [ Location Detail ](https://anisolepro.github.io/ReactProjects/locationDetail/)  | fetch Detail for selected Location   |
 |7.| [ AP Drop ](https://anisolepro.github.io/ReactProjects/apDrop/)  | p2p file sharing website to share large files    |
+|8.| [ BINGO ](https://anisolepro.github.io/ReactProjects/bingo/)  | online Multiplayer BINGO game . No more need pen and paper for Bingo     |
 
 
 
