@@ -1,5 +1,5 @@
 # MERN Projects
-These are some of my MERN projects . I posted frontEnd here and backend api to glitch . So 1st load maybe take long because glitch.com goes off for 5min inactive api
+These are some of my MERN or Simple React projects . I posted frontEnd here and backend api to glitch . So 1st load maybe take long because glitch.com goes off for 5min inactive api
 
 
 # Testing Credentials
