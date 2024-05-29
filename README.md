@@ -1,6 +1,9 @@
-# React Projects
+# MERN Projects
 
-There are Some basic frontEnd Projects used with the help of React
+# Testing Credentials
+|username| password|
+|test|test|
+
 
 ## Projects List
 
